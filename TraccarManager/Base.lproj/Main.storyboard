@@ -413,7 +413,7 @@
                                     <outlet property="delegate" destination="wTg-2z-vTv" id="LwW-Wu-GJe"/>
                                 </connections>
                             </textField>
-                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="http://demo.traccar.org" borderStyle="roundedRect" placeholder="Server" textAlignment="natural" minimumFontSize="17" clearButtonMode="whileEditing" translatesAutoresizingMaskIntoConstraints="NO" id="Hve-fC-WfE">
+                            <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" text="http://track.mygpsguy.com" borderStyle="roundedRect" placeholder="Server" textAlignment="natural" minimumFontSize="17" clearButtonMode="whileEditing" translatesAutoresizingMaskIntoConstraints="NO" id="Hve-fC-WfE">
                                 <rect key="frame" x="37.5" y="239.5" width="300" height="30"/>
                                 <constraints>
                                     <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="300" id="OQt-iF-6Xv"/>
